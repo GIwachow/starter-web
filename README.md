@@ -11,5 +11,6 @@ This example is to show different parts of the Git repository and various comman
 As stated above, the main purpose is to provide simple examples for Git training demos.
 
 ## Deployment
+Simple web project for any web server.
 
 ## How to contribute
