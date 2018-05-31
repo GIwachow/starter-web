@@ -14,6 +14,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 Simple web project for any web server.
 
 ## How to contribute
+Please fork this repository then issue pull request for review
 
 ### Copyright
 2018 Git.Training
